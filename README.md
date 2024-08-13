@@ -13,7 +13,6 @@ acessar essas variáveis dentro do bloco e fora dele utilizando console.log e an
 processo utilizando let e compare com os resultados anteriores.
 6. Declare uma variável booleana que informa se está chovendo e utilize-a em uma estrutura condicional (if) para 
 exibir uma mensagem informando se é preciso levar um guarda-chuva ou não dependendo do valor da variável.
-
 7 . Criar 3 variáveis n1 = 8,n2 =9,n3 = 5.5 , calcular a média e exibir no terminal com console.log
 8. Criar um programa para calcular a área do triangulo e exibir no terminal
 9. Criar um programa para calcular a área do circulo.
